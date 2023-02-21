@@ -11,6 +11,7 @@ from datetime import datetime
 import traceback
 import regex as rx
 
+
 version = " -- v 1.0"
 window_title = "PocketSteno © Kurt C. Neinstedt" + version
 
