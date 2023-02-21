@@ -6,8 +6,6 @@ import openai
 import collections
 import collections.abc
 import easygui
-import datetime
-from datetime import datetime
 import traceback
 import regex as rx
 
