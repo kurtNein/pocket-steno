@@ -6,7 +6,11 @@ Thank you for downloading PocketSteno!
 
 This is an application dedicated to transforming .pptx files into text.
 
-To run, double click the PocketSteno.exe file.
+The version available on GitHub is the Python script which comprises the process.
+
+A standalone executable (PocketSteno.exe) can be made available for 64-bit Windows 10 via pyinstaller.
+
+To run, clone the script into a .py file, import into your IDE, or double click a PocketSteno.exe file.
 
 If there is a window from your operating system claiming it protected you from running the application:
     > Expand the "More info" box. Then, select "Run anyway".
